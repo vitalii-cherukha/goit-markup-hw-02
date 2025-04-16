@@ -20,24 +20,27 @@ ul {
 h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.072;
+    line-height: 1.07;
     color: #FFFFFF;
 }
 
 h2 {
     font-weight: 700;
     font-size: 36px;
+    line-height: 1.11;
     color: #2E2F42;
 }
 
 h3 {
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
     color: #2E2F42;
 }
 
 p {
     font-size: 12px;
+    line-height: 1.16;
 }
 
 footer {
