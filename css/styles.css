@@ -23,11 +23,6 @@ h2 {
     
 }
 
-/* footer {
-    
-    color: #F4F4FD;
-} */
-
 .header-logo {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -45,6 +40,7 @@ h2 {
 .header-nav {
     font-weight: 500;
     letter-spacing: 0.02em;
+
 }
 
 .header-nav:active {
@@ -177,6 +173,25 @@ h2 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
+}
+
+.section-portfolio-card {
+
+}
+
+.section-portfolio-card-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.section-portfolio-card-text {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .footer-dark {
