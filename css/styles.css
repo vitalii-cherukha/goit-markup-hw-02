@@ -20,7 +20,7 @@ ul {
 
 h2 {
     font-weight: 700;
-    
+
 }
 
 .header-logo {
@@ -107,13 +107,9 @@ h2 {
     background-color: #404BBF;
 }
 
-.section-features {
+.section-features {}
 
-}
-
-.section-features-title {
-
-}
+.section-features-title {}
 
 .section-features-card-title {
     font-weight: 500;
@@ -123,9 +119,7 @@ h2 {
     color: #2E2F42;
 }
 
-.section-features-card {
-    
-}
+.section-features-card {}
 
 
 .section-features-text {
@@ -167,9 +161,7 @@ h2 {
     color: #434455;
 }
 
-.section-portfolio {
-
-}
+.section-portfolio {}
 
 .section-portfolio-title {
     font-size: 36px;
@@ -180,9 +172,7 @@ h2 {
     color: #2E2F42;
 }
 
-.section-portfolio-card {
-
-}
+.section-portfolio-card {}
 
 .section-portfolio-card-title {
     font-weight: 500;
@@ -222,3 +212,4 @@ h2 {
     color: #F4F4FD;
     letter-spacing: 0.02em;
 }
+
